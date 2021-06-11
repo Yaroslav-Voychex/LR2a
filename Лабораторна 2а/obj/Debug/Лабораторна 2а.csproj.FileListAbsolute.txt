@@ -1,0 +1,7 @@
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\bin\Debug\Лабораторна 2а.exe.config
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\bin\Debug\Лабораторна 2а.exe
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\bin\Debug\Лабораторна 2а.pdb
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\obj\Debug\Лабораторна 2а.csproj.CoreCompileInputs.cache
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\obj\Debug\Лабораторна 2а.exe
+c:\users\yarick\source\repos\Лабораторна 2а\Лабораторна 2а\obj\Debug\Лабораторна 2а.pdb
+C:\Users\Yarick\source\repos\Лабораторна 2а\Лабораторна 2а\obj\Debug\Лабораторна 2а.csproj.AssemblyReference.cache

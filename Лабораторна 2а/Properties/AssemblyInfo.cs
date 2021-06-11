@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Lr_2a")]
+[assembly: AssemblyTitle("Лабораторна 2а")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lr_2a")]
+[assembly: AssemblyProduct("Лабораторна 2а")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("6b9cf3e7-d59e-4fb5-9304-0219486d672d")]
+[assembly: Guid("2b433490-3ba9-4eef-87ec-1fbf9e1c5d6e")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
